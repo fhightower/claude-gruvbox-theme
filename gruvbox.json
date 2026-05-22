@@ -1,0 +1,33 @@
+{
+  "name": "gruvbox",
+  "base": "dark",
+  "overrides": {
+    "background": "#282828",
+    "foreground": "#ebdbb2",
+    "primary": "#fabd2f",
+    "secondary": "#83a598",
+    "accent": "#fe8019",
+    "border": "#504945",
+    "muted": "#928374",
+    "focused": "#fabd2f",
+    "prompt": "#ebdbb2",
+    "promptBorder": "#665c54",
+    "cursor": "#fe8019",
+    "selection": "#504945",
+    "success": "#b8bb26",
+    "warning": "#d79921",
+    "error": "#fb4934",
+    "info": "#83a598",
+    "claude": "#fe8019",
+    "user": "#8ec07c",
+    "tool": "#d3869b",
+    "userMessageBackground": "#3c3836",
+    "userMessageBackgroundHover": "#504945",
+    "diffAdded": "#32361a",
+    "diffAddedDimmed": "#2a2c1a",
+    "diffAddedWord": "#79740e",
+    "diffRemoved": "#4a1e1c",
+    "diffRemovedDimmed": "#3a1816",
+    "diffRemovedWord": "#9d0006"
+  }
+}
